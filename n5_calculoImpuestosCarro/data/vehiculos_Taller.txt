@@ -1,0 +1,43 @@
+#---------------------------------------------------------
+# Vehiculos almacenados para el calculo de impuestos
+#
+# Formato: Marca,Linea,Modelo,Precio
+#---------------------------------------------------------
+
+Peugeot,307,2015,71800000
+Peugeot,206,2015,90900000
+Peugeot,206,2014,88900000
+
+Mazda,Allegro,2015,43000000
+Mazda,Mazda3,2015,55000000
+Mazda,Mazda6,2015,75600000
+
+BMW,320i,2015,128000000
+BMW,M3,2014,230000000
+
+Mercedez Benz,C180,2015,128000000
+Mercedez Benz,C180,2014,122000000
+
+Audi,A4,2013,95000000
+Audi,A4,2012,110000000
+Audi,A4,2014,113000000
+Audi,A4,2015,116000000
+
+Chevrolet,Astra,2015,55000000
+Chevrolet,Corsa,2015,30000000
+Chevrolet,Epica,2015,64580000
+Chevrolet,Trail Blazer,2015,117990000
+Chevrolet,Gran Vitara,2015,81590000
+
+Volvo,S40,2014,130000000
+Volvo,S60,2013,175000000
+
+Volkswagen,Golf,2014,55000000
+Volkswagen,Gold,2014,60000000
+
+Toyota,Corolla,2015,61200000
+Toyota,Camry,2015,145500000
+Toyota,Land Cruiser,2015,80000000
+
+Renault,Megane,2015,40860000
+Renault,Clio,2015,38660000  
